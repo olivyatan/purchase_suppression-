@@ -1,0 +1,295 @@
+Date: Sun, 25 May 2025 03:58:54 -0700 (GMT-07:00)
+Message-ID: <331744965.29992.1748170734276@lvs-wkias-002.corp.ebay.com>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_29991_1970520194.1748170734276"
+
+------=_Part_29991_1970520194.1748170734276
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Background &amp; Resources</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Background &amp; Resources</h1>
+    <div class=3D"Section1">
+        <h3 id=3D"Background&amp;Resources-BackgroundMaterialfromCoreAI:">B=
+ackground Material from Core AI:</h3>
+<ul>
+<li><a class=3D"external-link" href=3D"https://docs.google.com/document/d/1=
+cLkr7sxABaIXu6D64hIdzWfI3_E6qQISFkpn2CYJh3g/edit" rel=3D"nofollow" style=3D=
+"text-decoration: none;">https://docs.google.com/document/d/1cLkr7sxABaIXu6=
+D64hIdzWfI3_E6qQISFkpn2CYJh3g/edit</a></li>
+<li>Leadership review:<span>&nbsp;</span><a class=3D"external-link" href=3D=
+"https://docs.google.com/presentation/d/1lNEhipM30vXNYfovUlM-Pshy_S2A-BFBLz=
+a0hEBPxjE/edit#slide=3Did.g12e82f9f11d_0_213" rel=3D"nofollow" style=3D"tex=
+t-decoration: none;">https://docs.google.com/presentation/d/1lNEhipM30vXNYf=
+ovUlM-Pshy_S2A-BFBLza0hEBPxjE/edit#slide=3Did.g12e82f9f11d_0_213</a></li>
+<li>Email launch announcement by camila and ivan:<span>&nbsp;</span><a clas=
+s=3D"external-link" href=3D"https://docs.google.com/document/d/1nB450zkKRve=
+k7pvjqc5x-uDuOmVM-mN-i5X06fGYsVw/edit?usp=3Dsharing" rel=3D"nofollow" style=
+=3D"text-decoration: none;">https://docs.google.com/document/d/1nB450zkKRve=
+k7pvjqc5x-uDuOmVM-mN-i5X06fGYsVw/edit?usp=3Dsharing</a></li>
+<li><a class=3D"external-link" href=3D"https://lucid.app/lucidchart/1adb1fd=
+7-a9f4-4602-ad13-e29d03be2c20/edit?viewport_loc=3D224%2C96%2C2867%2C1356%2C=
+5UsnQZWutLQo&amp;invitationId=3Dinv_6babd53d-f54c-4d56-ac1f-9fbc660a0094" r=
+el=3D"nofollow" style=3D"text-decoration: none;">https://lucid.app/lucidcha=
+rt/1adb1fd7-a9f4-4602-ad13-e29d03be2c20/edit?viewport_l[=E2=80=A6]snQZWutLQ=
+o&amp;invitationId=3Dinv_6babd53d-f54c-4d56-ac1f-9fbc660a0094</a></li>
+<li><a class=3D"external-link" href=3D"https://docs.google.com/presentation=
+/d/1OdUC2XdQ1TdG5XZPr7iqXT1pdSrkTU2vt=E2=80=93qjMo0_Tk/edit#slide=3Did.g2c8=
+9f639091_0_0" rel=3D"nofollow">https://docs.google.com/presentation/d/1OdUC=
+2XdQ1TdG5XZPr7iqXT1pdSrkTU2vt=E2=80=93qjMo0_Tk/edit#slide=3Did.g2c89f639091=
+_0_0</a></li>
+<li>CORE AI's Item-based Suppression model: <a class=3D"external-link" href=
+=3D"https://docs.google.com/presentation/d/1vMj1OELnDzG4I9zE3bK_7Kuj_uZ61kF=
+dgfTo7948BsQ/edit#slide=3Did.p1" rel=3D"nofollow">https://docs.google.com/p=
+resentation/d/1vMj1OELnDzG4I9zE3bK_7Kuj_uZ61kFdgfTo7948BsQ/edit#slide=3Did.=
+p1</a> (<a class=3D"external-link" href=3D"https://github.corp.ebay.com/lka=
+smi/topo_item_suppress" rel=3D"nofollow">github</a>)</li>
+</ul>
+<h3 id=3D"Background&amp;Resources-Resources:">Resources:</h3>
+<ul>
+<li><a class=3D"external-link" href=3D"https://github.corp.ebay.com/yeshel/=
+JourneyPickingRankerPlayground/blob/8dc844885c5501e9d0d9235ac26593fc8601f36=
+c/src/pyspark_queries/jp_data.py" rel=3D"nofollow" style=3D"text-decoration=
+: none;">https://github.corp.ebay.com/yeshel/JourneyPickingRankerPlayground=
+/blob/8dc844885c5501e9d0d9235ac26593fc8601f36c/src/pyspark_queries/jp_data.=
+py</a></li>
+<li><a class=3D"external-link" href=3D"https://github.corp.ebay.com/yeshel/=
+buyer-activity-mega-query/blob/main/pyspark_query.py" rel=3D"nofollow" styl=
+e=3D"text-decoration: none;">https://github.corp.ebay.com/yeshel/buyer-acti=
+vity-mega-query/blob/main/pyspark_query.py</a></li>
+<li><a class=3D"external-link" href=3D"https://github.corp.ebay.com/TeamBEP=
+ersonalization/bepersonalspark/tree/master/bepersonalspark-python/journey_p=
+icking" rel=3D"nofollow" style=3D"text-decoration: none;">https://github.co=
+rp.ebay.com/TeamBEPersonalization/bepersonalspark/tree/master/bepersonalspa=
+rk-python/journey_picking</a></li>
+<li>Journey Picking wiki:<span>&nbsp;</span><a class=3D"c-link" href=3D"htt=
+ps://wiki.corp.ebay.com/display/BEPERSONAL/Journey+Picking" rel=3D"nofollow=
+" style=3D"text-decoration: none;">https://wiki.corp.ebay.com/display/BEPER=
+SONAL/Journey+Picking</a></li>
+</ul>
+    </div>
+</body>
+</html>
+------=_Part_29991_1970520194.1748170734276--
